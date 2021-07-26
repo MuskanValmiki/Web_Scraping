@@ -1,0 +1,1643 @@
+[
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Josh Cooley"
+        ],
+        "Producer": [
+            "Mark Nielsen, \n   \nJonas Rivera, \n   \nGalyn Susman"
+        ],
+        "Runtime": 104,
+        "movieName": "toy_story_4"
+    },
+    {
+        "Rating": "PG (Mild Language|Frenetic Action Violence|Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Bob Persichetti,                                                     Peter Ramsey,                                                     Rodney Rothman"
+        ],
+        "Producer": [
+            "Avi Arad, \n   \nAmy Pascal, \n   \nPhil Lord, \n   \nChris Miller, \n   \nChristina Steinberg"
+        ],
+        "Runtime": 122,
+        "movieName": "spider_man_into_the_spider_verse"
+    },
+    {
+        "Rating": "PG (Some Action|Mild Thematic Elements)",
+        "Genre": [
+            "fantasy",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Pete Docter"
+        ],
+        "Producer": [
+            "Jonas Rivera"
+        ],
+        "Runtime": 98,
+        "movieName": "inside_out_2015"
+    },
+    {
+        "Rating": "PG (Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " music",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Lee Unkrich"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 113,
+        "movieName": "coco_2017"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "David Hand"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 82,
+        "movieName": "1048445-snow_white_and_the_seven_dwarfs"
+    },
+    {
+        "Rating": "PG (Some Brief Mild Language|Action Sequences)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "John Walker, \n   \nNicole Paradis Grindle"
+        ],
+        "Runtime": 123,
+        "movieName": "incredibles_2"
+    },
+    {
+        "Rating": "PG (Rude Humor|Action|Some Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Byron Howard,                                                     Rich Moore"
+        ],
+        "Producer": [
+            "Clark Spencer"
+        ],
+        "Runtime": 112,
+        "movieName": "zootopia"
+    },
+    {
+        "Rating": "PG (Some Action|Mild Rude Humor)",
+        "Genre": [
+            "adventure",
+            " comedy"
+        ],
+        "language": "English (United Kingdom)",
+        "director": [
+            "Paul King"
+        ],
+        "Producer": [
+            "David Heyman"
+        ],
+        "Runtime": 107,
+        "movieName": "paddington_2"
+    },
+    {
+        "Rating": "PG (Some Peril|Action)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Pete Docter,                                                     Bob Peterson"
+        ],
+        "Producer": [
+            "Jonas Rivera"
+        ],
+        "Runtime": 91,
+        "movieName": "up"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Lee Unkrich"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 106,
+        "movieName": "toy_story_3"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Ash Brannon,                                                     John Lasseter,                                                     Lee Unkrich"
+        ],
+        "Producer": [
+            "Karen Robert Jackson, \n   \nHelene Plotkin"
+        ],
+        "Runtime": 95,
+        "movieName": "toy_story_2"
+    },
+    {
+        "Rating": "PG (Mild Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Lindsey Collins"
+        ],
+        "Runtime": 107,
+        "movieName": "finding_dory"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " animation"
+        ],
+        "language": "English",
+        "director": [
+            "Ben Sharpsteen,                                                     Hamilton Luske"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 89,
+        "movieName": "pinocchio_1940"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Graham Walters"
+        ],
+        "Runtime": 104,
+        "movieName": "finding_nemo"
+    },
+    {
+        "Rating": "PG (Rude Humor|Mild Action)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Phil Lord,                                                     Chris Miller"
+        ],
+        "Producer": [
+            "Dan Lin, \n   \nRoy Lee"
+        ],
+        "Runtime": 98,
+        "movieName": "the_lego_movie"
+    },
+    {
+        "Rating": "PG (Peril|Brief Thematic Elements|Some Scary Images)",
+        "Genre": [
+            "adventure",
+            " musical",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "John Musker,                                                     Ron Clements"
+        ],
+        "Producer": [
+            "Osnat Shurer"
+        ],
+        "Runtime": 118,
+        "movieName": "moana_2016"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "John Lasseter"
+        ],
+        "Producer": [
+            "Ralph Guggenheim, \n   \nBonnie Arnold"
+        ],
+        "Runtime": 82,
+        "movieName": "toy_story"
+    },
+    {
+        "Rating": "PG-13 (Thematic Elements|Some Violent Images)",
+        "Genre": [
+            "adventure",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Wes Anderson"
+        ],
+        "Producer": [
+            "Wes Anderson, \n   \nScott Rudin, \n   \nSteven Rales, \n   \nJeremy Dawson"
+        ],
+        "Runtime": 105,
+        "movieName": "isle_of_dogs_2018"
+    },
+    {
+        "Rating": "PG (Scary Images|Action and Peril|Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " fantasy"
+        ],
+        "language": "English",
+        "director": [
+            "Travis Knight"
+        ],
+        "Producer": [
+            "Arianne Sutner, \n   \nTravis Knight"
+        ],
+        "Runtime": 106,
+        "movieName": "kubo_and_the_two_strings_2016"
+    },
+    {
+        "Rating": "PG (Sequences of Intense Action|Brief Mild Language|Some Scary Images)",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Christopher Sanders,                                                     Dean DeBlois"
+        ],
+        "Producer": [
+            "Bonnie Arnold"
+        ],
+        "Runtime": 101,
+        "movieName": "how_to_train_your_dragon"
+    },
+    {
+        "Rating": "PG (Rude Humor)",
+        "Genre": [
+            "adventure",
+            " kids & family",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Mark Burton,                                                     Richard Starzak"
+        ],
+        "Producer": [
+            "Julie Lockhart, \n   \nPaul Kewley"
+        ],
+        "Runtime": 87,
+        "movieName": "shaun_the_sheep_movie"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " sci-fi",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Andrew Stanton"
+        ],
+        "Producer": [
+            "Jim Morris"
+        ],
+        "Runtime": 100,
+        "movieName": "wall_e"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Ben Sharpsteen"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 64,
+        "movieName": "dumbo"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "Brad Lewis"
+        ],
+        "Runtime": 116,
+        "movieName": "ratatouille"
+    },
+    {
+        "Rating": "PG-13 (Thematic Elements|Suggestive Material)",
+        "Genre": [
+            "drama",
+            " comedy"
+        ],
+        "language": "French (France)",
+        "director": [
+            "Claude Barras"
+        ],
+        "Producer": [
+            "Marc Bonny, \n   \nArmelle Glorennec, \n   \nPauline Gygax, \n   \nMax Karli"
+        ],
+        "Runtime": 66,
+        "movieName": "my_life_as_a_zucchini"
+    },
+    {
+        "Rating": "PG (Action/Violence)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "John Lasseter, \n   \nJohn Walker"
+        ],
+        "Runtime": 120,
+        "movieName": "incredibles"
+    },
+    {
+        "Genre": [
+            "anime"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Isao Takahata"
+        ],
+        "Producer": [
+            "Yasuyoshi Tokuma"
+        ],
+        "Runtime": 123,
+        "movieName": "only_yesterday_1991"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "animation",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Wolfgang Reitherman,                                                     Hamilton Luske,                                                     Clyde Geronimi"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 80,
+        "movieName": "101_dalmatians"
+    },
+    {
+        "Rating": "PG (Rude Humor and Some Action)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Chris McKay"
+        ],
+        "Producer": [
+            "Dan Lin, \n   \nPhil Lord, \n   \nChris Miller, \n   \nRoy Lee"
+        ],
+        "Runtime": 110,
+        "movieName": "the_lego_batman_movie"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Peter Lord,                                                     Nick Park"
+        ],
+        "Producer": [
+            "Peter Lord, \n   \nNick Park, \n   \nDavid Sproxton"
+        ],
+        "Runtime": 87,
+        "movieName": "chicken_run"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Gary Trousdale,                                                     Kirk Wise"
+        ],
+        "Producer": [
+            "Don Hahn"
+        ],
+        "Runtime": 86,
+        "movieName": "beauty_and_the_beast_1991"
+    },
+    {
+        "Rating": "PG (Some Scary Images)",
+        "Genre": [
+            "animation",
+            " fantasy",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Henry Selick"
+        ],
+        "Producer": [
+            "Tim Burton, \n   \nDenise Di Novi, \n   \nKathleen Gavin"
+        ],
+        "Runtime": 76,
+        "movieName": "nightmare_before_christmas"
+    },
+    {
+        "Rating": "R (Language|Graphic Nudity|Strong Sexual Content)",
+        "Genre": [
+            "drama",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Charlie Kaufman,                                                     Duke Johnson"
+        ],
+        "Producer": [
+            "Rosa Tran, \n   \nDuke Johnson, \n   \nCharlie Kaufman, \n   \nDino Stamatopoulos"
+        ],
+        "Runtime": 93,
+        "movieName": "anomalisa"
+    },
+    {
+        "Rating": "PG (Some Mild Thematic Elements|Action/Peril)",
+        "Genre": [
+            "animation",
+            " comedy",
+            " kids & family",
+            " fantasy"
+        ],
+        "language": "English",
+        "director": [
+            "Dan Scanlon"
+        ],
+        "Producer": [
+            "Kori Rae"
+        ],
+        "Runtime": 107,
+        "movieName": "onward"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Pete Docter"
+        ],
+        "Producer": [
+            "Darla K. Anderson"
+        ],
+        "Runtime": 95,
+        "movieName": "monsters_inc"
+    },
+    {
+        "Genre": [
+            "anime",
+            " war"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Isao Takahata"
+        ],
+        "Producer": [
+            "Toru Hara"
+        ],
+        "Runtime": 90,
+        "movieName": "grave_of_the_fireflies"
+    },
+    {
+        "Rating": "PG (Some Scary Moments)",
+        "Genre": [
+            "adventure",
+            " fantasy"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki,                                                     Kirk Wise"
+        ],
+        "Producer": [
+            "Donald W. Ernst, \n   \nToshio Suzuki"
+        ],
+        "Runtime": 125,
+        "movieName": "spirited_away"
+    },
+    {
+        "Rating": "PG (Smoking|Brief Language|Suggestive Content|Thematic Elements)",
+        "Genre": [
+            "fantasy",
+            " anime"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Makoto Shinkai"
+        ],
+        "Producer": [
+            "Noritaka Kawaguchi, \n   \nGenki Kawamura"
+        ],
+        "Runtime": 110,
+        "movieName": "your_name_2017"
+    },
+    {
+        "Rating": "PG (Mild Language|Fantasy Action)",
+        "Genre": [
+            "adventure",
+            " fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Brad Bird"
+        ],
+        "Producer": [
+            "Des McAnuff, \n   \nAllison Abbate"
+        ],
+        "Runtime": 88,
+        "movieName": "iron_giant"
+    },
+    {
+        "Rating": "PG (Pipe Smoking Images|Language|Some Mild Peril)",
+        "Genre": [
+            "adventure",
+            " fantasy"
+        ],
+        "language": "English",
+        "director": [
+            "Tomm Moore"
+        ],
+        "Producer": [
+            "Tomm Moore, \n   \nRoss Murray, \n   \nPaul Young, \n   \nSt\u00e9phan Roelants, \n   \nSerge Ume, \n   \nIsabelle Truc, \n   \nCl\u00e9ment Calvet, \n   \nJeremie Fajner, \n   \nFrederik Villumsen, \n   \nClaus Toksvig Kjaer"
+        ],
+        "Runtime": 97,
+        "movieName": "song_of_the_sea_2014"
+    },
+    {
+        "Genre": [],
+        "language": "English",
+        "director": [
+            "Keith Maitland"
+        ],
+        "Producer": [
+            "Megan Gilbride, \n   \nSusan Thomson"
+        ],
+        "Runtime": 101,
+        "movieName": "tower_2016"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "James Algar,                                                     Samuel Armstrong,                                                     Ford Beebe,                                                     Norman Ferguson,                                                     Jim Handley,                                                     T. Hee,                                                     Wilfred Jackson,                                                     Hamilton Luske,                                                     Bill Roberts,                                                     Paul Satterfield"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 120,
+        "movieName": "fantasia"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " musical",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Roger Allers,                                                     Rob Minkoff"
+        ],
+        "Producer": [
+            "Don Hahn"
+        ],
+        "Runtime": 89,
+        "movieName": "the_lion_king"
+    },
+    {
+        "Rating": "PG",
+        "Genre": [],
+        "language": "English",
+        "director": [
+            "Robert Zemeckis"
+        ],
+        "Producer": [
+            "Robert Watts, \n   \nFrank Marshall"
+        ],
+        "Runtime": 108,
+        "movieName": "who_framed_roger_rabbit"
+    },
+    {
+        "Rating": "R (Dist. Images of Atrocities|Brief Nudity|Graphic Sexual Violence|Strong Violence)",
+        "Genre": [
+            "drama",
+            " documentary",
+            " animation",
+            " war"
+        ],
+        "language": "Hebrew",
+        "director": [
+            "Ari Folman"
+        ],
+        "Producer": [
+            "Ari Folman, \n   \nSerge Lalou, \n   \nGerhard Meixner, \n   \nRoman Paul"
+        ],
+        "Runtime": 93,
+        "movieName": "waltz_with_bashir"
+    },
+    {
+        "Rating": "PG (Some Mild Rude Humor|Adventure Action)",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Dean DeBlois"
+        ],
+        "Producer": [
+            "Brad Lewis, \n   \nBonnie Arnold"
+        ],
+        "Runtime": 108,
+        "movieName": "how_to_train_your_dragon_the_hidden_world"
+    },
+    {
+        "Rating": "PG-13 (Language|Brief Drug Content|Mature Thematic Material|Sexual References|Violent Images)",
+        "Genre": [
+            "drama"
+        ],
+        "language": "English",
+        "director": [
+            "Vincent Paronnaud,                                                     Marjane Satrapi"
+        ],
+        "Runtime": 98,
+        "movieName": "persepolis"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " musical",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "George Dunning"
+        ],
+        "Runtime": 87,
+        "movieName": "beatles_the_yellow_submarine"
+    },
+    {
+        "director": [
+            "Steve Box"
+        ]
+    },
+    {
+        "Rating": "PG (Slang Humor|Action|Smoking)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Wes Anderson"
+        ],
+        "Producer": [
+            "Wes Anderson, \n   \nScott Rudin, \n   \nAllison Abbate, \n   \nJeremy Dawson"
+        ],
+        "Runtime": 90,
+        "movieName": "1197696-fantastic_mr_fox"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " anime"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki"
+        ],
+        "Producer": [
+            "Jane Schonberger, \n   \nHayao Miyazaki"
+        ],
+        "Runtime": 107,
+        "movieName": "kikis_delivery_service"
+    },
+    {
+        "director": [
+            "Vincent Patar"
+        ]
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family",
+            " musical",
+            " animation",
+            " adventure"
+        ],
+        "language": "English",
+        "director": [
+            "Ron Clements,                                                     John Musker"
+        ],
+        "Producer": [
+            "Ron Clements, \n   \nJohn Musker"
+        ],
+        "Runtime": 93,
+        "movieName": "disneys_aladdin"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " fantasy",
+            " anime"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hiromasa Yonebayashi,                                                     Gary Rydstrom"
+        ],
+        "Producer": [
+            "Toshio Suzuki"
+        ],
+        "Runtime": 98,
+        "movieName": "the_secret_world_of_arrietty"
+    },
+    {
+        "Rating": "PG (Some Action|Mild Rude Humor)",
+        "Genre": [
+            "adventure",
+            " musical",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Chris Buck,                                                     Jennifer Lee"
+        ],
+        "Producer": [
+            "Peter Del Vecho"
+        ],
+        "Runtime": 106,
+        "movieName": "frozen_2013"
+    },
+    {
+        "Rating": "PG (Some Thematic Elements|Peril)",
+        "Genre": [
+            "adventure"
+        ],
+        "language": "Unknown language",
+        "director": [
+            "Michael Dudok de Wit"
+        ],
+        "Producer": [
+            "Val\u00e9rie Schermann, \n   \nChristophe Jankovic"
+        ],
+        "Runtime": 82,
+        "movieName": "the_red_turtle"
+    },
+    {
+        "Rating": "PG (Some Action and Rude Humor)",
+        "Genre": [
+            "animation",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Phil Johnston,                                                     Rich Moore"
+        ],
+        "Producer": [
+            "Clark Spencer"
+        ],
+        "Runtime": 117,
+        "movieName": "ralph_breaks_the_internet"
+    },
+    {
+        "Rating": "PG (Some Peril|Mild Language)",
+        "Genre": [
+            "adventure",
+            " drama"
+        ],
+        "language": "French (France)",
+        "director": [
+            "R\u00e9mi Chay\u00e9"
+        ],
+        "Producer": [
+            "Ron Dyens, \n   \nHenri Magalon"
+        ],
+        "Runtime": 83,
+        "movieName": "long_way_north"
+    },
+    {
+        "Rating": "PG (Some Rude Humor|Action and Peril|Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " sci-fi",
+            " action",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Don Hall,                                                     Chris Williams"
+        ],
+        "Producer": [
+            "Roy Conli"
+        ],
+        "Runtime": 106,
+        "movieName": "big_hero_6"
+    },
+    {
+        "Rating": "PG (Some Language|Suggestive Humor|Scary Images|Thematic Elements)",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Henry Selick"
+        ],
+        "Producer": [
+            "Bill Mechanic, \n   \nClaire Jennings, \n   \nHenry Selick, \n   \nMary Sandell"
+        ],
+        "Runtime": 104,
+        "movieName": "coraline"
+    },
+    {
+        "Genre": [
+            "anime",
+            " action"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Mamoru Oshii"
+        ],
+        "Producer": [
+            "Mitsuhisa Ishikawa, \n   \nKen Iyadomi, \n   \nKen Matsumoto, \n   \nYoshimasa Mizuo"
+        ],
+        "Runtime": 87,
+        "movieName": "ghost_in_the_shell"
+    },
+    {
+        "Genre": [
+            "fantasy",
+            " drama"
+        ],
+        "language": "French (France)",
+        "director": [
+            "J\u00e9r\u00e9my Clapin"
+        ],
+        "Producer": [
+            "Marc du Pontavice, \n   \nCamille Wiplier, \n   \nLucie Bolze"
+        ],
+        "Runtime": 83,
+        "movieName": "i_lost_my_body"
+    },
+    {
+        "Rating": "PG-13 (Thematic Material|Some Violent Images)",
+        "Genre": [
+            "animation"
+        ],
+        "language": "English",
+        "director": [
+            "Nora Twomey"
+        ],
+        "Producer": [
+            "Angelina Jolie, \n   \nAnthony Leo, \n   \nTomm Moore, \n   \nAndrew Rosen, \n   \nPaul Young"
+        ],
+        "Runtime": 97,
+        "movieName": "the_breadwinner"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "animation",
+            " comedy",
+            " adventure",
+            " kids & family"
+        ],
+        "language": "English (United Kingdom)",
+        "director": [
+            "Richard Phelan,                                                     Will Becher"
+        ],
+        "Producer": [
+            "Paul Kewley"
+        ],
+        "Runtime": 89,
+        "movieName": "a_shaun_the_sheep_movie_farmageddon"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Ron Clements,                                                     John Musker"
+        ],
+        "Producer": [
+            "Howard Ashman, \n   \nJohn Musker"
+        ],
+        "Runtime": 84,
+        "movieName": "the_little_mermaid_1989"
+    },
+    {
+        "Rating": "PG (Some Mild Rude Humor|Adventure Action)",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Dean DeBlois,                                                     Tom Owens"
+        ],
+        "Producer": [
+            "Bonnie Arnold"
+        ],
+        "Runtime": 106,
+        "movieName": "how_to_train_your_dragon_2"
+    },
+    {
+        "Rating": "PG-13 (Violence|Sensuality|Crude Humor)",
+        "Genre": [
+            "comedy"
+        ],
+        "language": "French (Canada)",
+        "director": [
+            "Sylvain Chomet"
+        ],
+        "Producer": [
+            "Didier Brunner"
+        ],
+        "Runtime": 84,
+        "movieName": "the_triplets_of_belleville"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Clyde Geronimi,                                                     Wilfred Jackson,                                                     Hamilton Luske"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 76,
+        "movieName": "lady_and_the_tramp"
+    },
+    {
+        "Rating": "PG-13 (Images of Violence and Gore)",
+        "Genre": [
+            "adventure",
+            " fantasy"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki"
+        ],
+        "Producer": [
+            "Toshio Suzuki"
+        ],
+        "Runtime": 134,
+        "movieName": "princess_mononoke_1999"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki"
+        ],
+        "Runtime": 89,
+        "movieName": "my_neighbor_totoro"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "David Hand"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 71,
+        "movieName": "bambi"
+    },
+    {
+        "Rating": "PG (Some Mild Rude Humor)",
+        "Genre": [
+            "other",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Sarah Smith"
+        ],
+        "Producer": [
+            "Peter Lord, \n   \nDavid Sproxton, \n   \nCarla Shelley, \n   \nSteve Pegram"
+        ],
+        "Runtime": 104,
+        "movieName": "arthur_christmas"
+    },
+    {
+        "Rating": "PG (Mild Language|Menacing Action)",
+        "Genre": [
+            "adventure",
+            " romance",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Eric Darnell,                                                     Tim Johnson"
+        ],
+        "Producer": [
+            "Brad Lewis, \n   \nAron Warner, \n   \nPatty Wooton"
+        ],
+        "Runtime": 89,
+        "movieName": "antz"
+    },
+    {
+        "Rating": "PG (Mild Action and Rude Humor)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Mike Mitchell"
+        ],
+        "Producer": [
+            "Dan Lin, \n   \nPhil Lord, \n   \nChris Miller, \n   \nRoy Lee, \n   \nJinko Gotoh"
+        ],
+        "Runtime": 111,
+        "movieName": "the_lego_movie_2_the_second_part"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "John Lasseter,                                                     Andrew Stanton"
+        ],
+        "Producer": [
+            "Darla K. Anderson, \n   \nKevin Reher"
+        ],
+        "Runtime": 99,
+        "movieName": "bugs_life"
+    },
+    {
+        "Genre": [
+            "drama",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Adam Elliot"
+        ],
+        "Producer": [
+            "Melanie Coombs"
+        ],
+        "Runtime": 95,
+        "movieName": "1209767-mary_and_max"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " fantasy"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki"
+        ],
+        "Producer": [
+            "Toshio Suzuki"
+        ],
+        "Runtime": 104,
+        "movieName": "ponyo"
+    },
+    {
+        "Rating": "PG (Rude Humor and Mild Action)",
+        "Genre": [
+            "adventure",
+            " animation",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Sergio Pablos"
+        ],
+        "Producer": [
+            "Jinko Gotoh, \n   \nSergio Pablos, \n   \nMatthew Teevan, \n   \nMercedes Gamero, \n   \nMikel Lejarza, \n   \nGustavo Ferrada"
+        ],
+        "Runtime": 101,
+        "movieName": "klaus"
+    },
+    {
+        "Rating": "PG (Action and Rude Humor)",
+        "Genre": [
+            "adventure",
+            " action",
+            " animation",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Peter Rida Michail,                                                     Aaron Horvath"
+        ],
+        "Producer": [
+            "Aaron Horvath, \n   \nMichael Jelenic, \n   \nPeggy Regan, \n   \nPeter Rida Michail, \n   \nWill Arnett"
+        ],
+        "Runtime": 89,
+        "movieName": "teen_titans_go_to_the_movies"
+    },
+    {
+        "Rating": "PG (Peril|Mild Action)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Chris Williams,                                                     Byron Howard"
+        ],
+        "Producer": [
+            "Clark Spencer"
+        ],
+        "Runtime": 99,
+        "movieName": "bolt"
+    },
+    {
+        "Rating": "PG (Brief Mild Violence)",
+        "Genre": [
+            "fantasy",
+            " kids & family",
+            " musical",
+            " animation",
+            " adventure"
+        ],
+        "language": "English",
+        "director": [
+            "Nathan Greno,                                                     Byron Howard"
+        ],
+        "Producer": [
+            "Roy Conli"
+        ],
+        "Runtime": 105,
+        "movieName": "tangled"
+    },
+    {
+        "Rating": "PG (Some Crude Humor|A Brief Substance Reference|Some Suggestive Content)",
+        "Genre": [
+            "fantasy",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Andrew Adamson,                                                     Kelly Asbury,                                                     Conrad Vernon"
+        ],
+        "Producer": [
+            "Jeffrey Katzenberg, \n   \nAron Warner, \n   \nDavid Lipman, \n   \nJohn H. Williams"
+        ],
+        "Runtime": 95,
+        "movieName": "shrek_2"
+    },
+    {
+        "Rating": "PG (Scary Action|Language|Scary Images|Some Rude Humor|Thematic Elements)",
+        "Genre": [
+            "adventure",
+            " animation",
+            " fantasy",
+            " comedy"
+        ],
+        "language": "English",
+        "director": [
+            "Chris Butler,                                                     Sam Fell"
+        ],
+        "Producer": [
+            "Arianne Sutner, \n   \nTravis Knight"
+        ],
+        "Runtime": 99,
+        "movieName": "paranorman"
+    },
+    {
+        "Rating": "PG (Scary Images|Action|Thematic Elements)",
+        "Genre": [
+            "comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Tim Burton"
+        ],
+        "Producer": [
+            "Tim Burton, \n   \nAllison Abbate"
+        ],
+        "Runtime": 89,
+        "movieName": "frankenweenie_2012"
+    },
+    {
+        "Rating": "PG (Some Crude Humor|Mild Language)",
+        "Genre": [
+            "fantasy",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Andrew Adamson,                                                     Vicky Jenson"
+        ],
+        "Producer": [
+            "Aron Warner, \n   \nJohn H. Williams, \n   \nJeffrey Katzenberg"
+        ],
+        "Runtime": 91,
+        "movieName": "shrek"
+    },
+    {
+        "Rating": "PG",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Henry Selick"
+        ],
+        "Producer": [
+            "Tim Burton, \n   \nDenise Di Novi"
+        ],
+        "Runtime": 82,
+        "movieName": "james_and_the_giant_peach"
+    },
+    {
+        "Rating": "PG (Language|Action|Rude Humor|Smoking)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Gore Verbinski"
+        ],
+        "Producer": [
+            "Gore Verbinski, \n   \nGraham King, \n   \nJohn B. Carls"
+        ],
+        "Runtime": 109,
+        "movieName": "rango"
+    },
+    {
+        "Rating": "PG-13 (Some Disturbing Images|Smoking)",
+        "Genre": [
+            "anime",
+            " drama",
+            " biography"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hayao Miyazaki,                                                     Gary Rydstrom"
+        ],
+        "Producer": [
+            "Toshio Suzuki"
+        ],
+        "Runtime": 126,
+        "movieName": "the_wind_rises"
+    },
+    {
+        "Rating": "PG (Some Mild Rude Humor|Action/Peril)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Chris Butler"
+        ],
+        "Producer": [
+            "Arianne Sutner, \n   \nTravis Knight"
+        ],
+        "Runtime": 97,
+        "movieName": "missing_link_2019"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Stephen J. Anderson,                                                     Don Hall"
+        ],
+        "Producer": [
+            "Peter Del Vecho"
+        ],
+        "Runtime": 69,
+        "movieName": "winnie_the_pooh_2011"
+    },
+    {
+        "Rating": "PG-13 (Irreverent Humor Throughout)",
+        "Genre": [
+            "comedy"
+        ],
+        "language": "English",
+        "director": [
+            "David Silverman"
+        ],
+        "Producer": [
+            "James L. Brooks, \n   \nMatt Groening, \n   \nAl Jean, \n   \nMike Scully, \n   \nRichard Sakai"
+        ],
+        "Runtime": 88,
+        "movieName": "simpsons_movie"
+    },
+    {
+        "Rating": "PG (Thematic Material and Images)",
+        "Genre": [
+            "adventure",
+            " kids & family"
+        ],
+        "language": "Portuguese (Brazil)",
+        "director": [
+            "Al\u00ea Abreu"
+        ],
+        "Producer": [
+            "Fernanda Carvalho, \n   \nTita Tessler"
+        ],
+        "Runtime": 82,
+        "movieName": "boy_and_the_world"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Steve Martino"
+        ],
+        "Producer": [
+            "Craig Schulz, \n   \nBryan Schulz, \n   \nCornelius Uliano, \n   \nPaul Feig, \n   \nMichael J. Travers"
+        ],
+        "Runtime": 91,
+        "movieName": "the_peanuts_movie"
+    },
+    {
+        "Rating": "PG (Brief Mild Language|Violence|Thematic Elements)",
+        "Genre": [
+            "fantasy",
+            " drama"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Satoshi Kon"
+        ],
+        "Producer": [
+            "Taro Maki"
+        ],
+        "Runtime": 89,
+        "movieName": "millennium_actress_2001"
+    },
+    {
+        "Rating": "PG (Thematic Elements|Smoking)",
+        "Genre": [
+            "drama",
+            " fantasy",
+            " anime",
+            " kids & family"
+        ],
+        "language": "Japanese",
+        "director": [
+            "Hiromasa Yonebayashi"
+        ],
+        "Producer": [
+            "Yoshiaki Nishimura, \n   \nKoji Hoshino"
+        ],
+        "Runtime": 107,
+        "movieName": "when_marnie_was_there"
+    },
+    {
+        "Rating": "PG (Martial Arts Action)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "John Stevenson,                                                     Mark Osborne"
+        ],
+        "Producer": [
+            "Melissa Cobb"
+        ],
+        "Runtime": 94,
+        "movieName": "kung_fu_panda"
+    },
+    {
+        "Rating": "PG (Some Rude Humor|Mild Action/Violence)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Rich Moore"
+        ],
+        "Producer": [
+            "Clark Spencer"
+        ],
+        "Runtime": 105,
+        "movieName": "wreck_it_ralph"
+    },
+    {
+        "Rating": "G",
+        "Genre": [
+            "fantasy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Clyde Geronimi"
+        ],
+        "Producer": [
+            "Walt Disney"
+        ],
+        "Runtime": 76,
+        "movieName": "1019187-sleeping_beauty"
+    },
+    {
+        "Rating": "PG (Some Mild Rude Humor|Martial Arts Action)",
+        "Genre": [
+            "adventure",
+            " comedy",
+            " kids & family"
+        ],
+        "language": "English",
+        "director": [
+            "Jennifer Yuh Nelson,                                                     Alessandro Carloni"
+        ],
+        "Producer": [
+            "Melissa Cobb"
+        ],
+        "Runtime": 98,
+        "movieName": "kung_fu_panda_3"
+    },
+    {
+        "Rating": "PG (Thematic Elements|Smoking)",
+        "Genre": [
+            "drama"
+        ],
+        "language": "English",
+        "director": [
+            "Sylvain Chomet"
+        ],
+        "Producer": [
+            "Sally Chomet, \n   \nBob Last"
+        ],
+        "Runtime": 93,
+        "movieName": "the_illusionist-2009"
+    }
+]
