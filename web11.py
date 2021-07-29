@@ -15,7 +15,6 @@ def anlyse_movie_genre():
         i += 1
 
     j = 0
-    count = 0
     dic = {}
     while j < len(list):
         if list[j] not in dic:
