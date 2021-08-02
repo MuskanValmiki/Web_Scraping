@@ -11,7 +11,7 @@ def analyse_movie_director(data):
         while index < len(data):
             if data[i]["director"] == data[index]["director"]:
                 count += 1
-                director = str(data[i]["director"])[0:]
+                director = str(data[i]["director"])
                 director_dict[director] = count
             index += 1    
         i += 1
